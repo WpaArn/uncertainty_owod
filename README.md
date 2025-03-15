@@ -30,7 +30,7 @@
 * Note that we are using an ImageNet pre-trained backbone. To switch to a DINO pre-trained backbone, please download the [model weights](https://dl.fbaipublicfiles.com/dino/dino_resnet50_pretrain/dino_resnet50_pretrain.pth) and then follow [these instructions](https://github.com/facebookresearch/detectron2/blob/main/tools/convert-torchvision-to-d2.py).
 
 ## Results
-The following results were obtained with four NVIDIA 2080 Ti GPUs, using the checkpoints at [this link](https://drive.google.com/drive/folders/1XTTmjC_oVA2-J8l-bBdBo9nrQVq-lgKm).
+The following results were obtained with four NVIDIA 2080 Ti GPUs, using the checkpoints at [this link] .
 
 * Open world object detection on M-OWODB and S-OWODB:
   
