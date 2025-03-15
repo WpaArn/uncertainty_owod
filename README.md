@@ -1,9 +1,6 @@
 # OrthogonalDet
 Code for CVPR 2024 paper [Exploring Orthogonality in Open World Object Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Exploring_Orthogonality_in_Open_World_Object_Detection_CVPR_2024_paper.pdf).
 
-<p align="center">
-    <img src="assets/intro.png" alt="OrthogonalDet" width=60%>
-</p>
 
 ## Requirements
 - Linux or macOS with Python ≥ 3.8.
